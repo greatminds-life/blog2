@@ -1,167 +1,110 @@
 ---
-title: "How To Use Checklists To Improve Your UX"
-date: 2019-10-29T10:07:47+06:00
+title: "Private schools may cost the same as public schools if well planned"
+date: 2020-04-26T10:07:47+06:00
 draft: false
 
 # post thumb
-image: "images/featured-post/post-1.jpg"
+image: "images/featured-post/princeton.jpg"
 
 # meta description
 description: "this is meta description"
 
 # taxonomies
 categories: 
-  - "Android And Gmaing"
+  - "Finance"
 tags:
-  - "Photos"
-  - "Game"
-  - "React"
-  - "Python"
-  - "New"
+  - "Finance"
+  - "College"
+  - "Tuition"
 
 # post type
-type: "featured"
+type: "post"
 ---
 
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
-###### Heading 6
+#### Colleges are insanely expensive in US
+Preparing funds to pay college tuition to send kids to colleges is a serious topic in US.  As a parent with two 8th graders(they will be in college if all works out, in the year of 2024), I felt obligated to do something to prepare properly though I don't have any prior knowledge or experience on finance or investment with not so much of disposable cash at hand. I had vague understanding that cost of college would be very expensive, if it comes to private schools, it goes way higher.  My unsderstanding on that was not too far away from reality if you look at the following table.
 
-<hr>
+|School type      | Average cost per year|
+|:-----|:-------------|
+|Private          | $75K+                |
+|Public out of state | $60K+            |
+|Public in state | $30K+                 |
 
-##### Emphasis
+Out of simple calculation, I should be able to pay (at least) $140K a year for my two kids (if they both go to private schools), easily sums up to $480K for four years. If they choose in state public schools instead, it goes down to $240K, still a lot of money to save. Unfortunately, I don't have that amount of money in my account, don't think I can save that much in next 2-3 years either. Then my concenrn has deepended, how could I support my kids if they got admission from schools?
 
-Emphasis, aka italics, with *asterisks* or _underscores_.
+#### There is good news though
+Despite all those stressful figures above, there is good news at least.  Most schools provide financial aid if you're qualified, and chance of getting it will go higher if you plan well.  You may get more aid for private schools since they are much more expensive than public schools.  Take a look at the following image provided by Princeton University. It says average of around $57K is granted to students admitted to class of 2023.  Very promising.  But is it for every students? Any conditions?
 
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
+<img src= "../../images/post/princeton1.png" width = 100% />
+[source: https://admission.princeton.edu/cost-aid](https://admission.princeton.edu/cost-aid)
 
-Combined emphasis with **asterisks and _underscores_**.
+Found another information from the same page as in the following image.  This indicates that studenst pay only $13K per year if they are granted full aid as depicted above which is less than half of cost of in state public schools.
 
-Strikethrough uses two tildes. ~~Scratch this.~~
+<img src= "../../images/post/princeton2.png" width = 60% />
 
-<hr>
+Then question is, will everyone get the aid if they apply? No. There are rules, but odds are very high even if your income level is relatively high according to the following stats also provided by Princeton University.  It says you would get the aid around $42K even your annual income is between 180K and 200K with 93% of chance, which is around $36K expected value.  Still good amount.
 
-##### Link
-[I'm an inline-style link](https://www.google.com)
+<img src= "../../images/post/princeton3.png" width = 80% />  
+[source: https://admission.princeton.edu/cost-aid/how-princetons-aid-program-works](https://admission.princeton.edu/cost-aid/how-princetons-aid-program-works)
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
-
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-URLs and URLs in angle brackets will automatically get turned into links. 
-http://www.example.com or <http://www.example.com> and sometimes 
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
-
-<hr>
-
-##### Paragraph
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus, facilis placeat pariatur! Voluptatem, sed harum pariatur adipisci voluptates voluptatum cumque, porro sint minima similique magni perferendis fuga! Optio vel ipsum excepturi tempore reiciendis id quidem? Vel in, doloribus debitis nesciunt fugit sequi magnam accusantium modi neque quis, vitae velit, pariatur harum autem a! Velit impedit atque maiores animi possimus asperiores natus repellendus excepturi sint architecto eligendi non, omnis nihil. Facilis, doloremque illum. Fugit optio laborum minus debitis natus illo perspiciatis corporis voluptatum rerum laboriosam.
-
-<hr>
-
-##### List
-
-1. List item
-2. List item
-3. List item
-4. List item
-5. List item
-
-##### Unordered List
-
-* List item
-* List item
-* List item
-* List item
-* List item
-
-<hr>
-
-##### Code and Syntax Highlighting
-
-Inline `code` has `back-ticks around` it.
-
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
+#### What are the rules to get qualified for aid?
+To answer this question, need to understand the factors to pass grant process.  Grants are basically decided **NEED** based, which factors in family's financial conditions while **MERIT** based aids are by students achievements.  **NEED** is calculated from the following equation:  
 ```
- 
-```python
-s = "Python syntax highlighting"
-print s
-```
- 
-```
-No language indicated, so no syntax highlighting. 
-But let's throw in a <b>tag</b>.
-```
+NEED = COA - EFC
 
-<hr>
+where  
+COA : Cost Of Attendance - fixed, posed by school  
+EFC : Expected Family Contribution - money from my pocket
+```  
 
-##### Blockquote
+As noted, COA is fixed, no way to change it.  Plan should be on EFC, how to minimize it to maximize the **NEED**.  
 
-> This is a blockquote example.
+EFC is defined by the following four factors:
+- parent income
+- parent asset
+- student income
+- student asset  
 
-<hr>
+If interested in getting more close numbers to your situation, this [link](https://admission.princeton.edu/cost-aid/financial-aid-estimator) will show more accurate expected aid grant amount based on financial information provided.  Following two simplified scenarios are to compare how EFC is affecting the amount of grant using cost-aid calculator from Princeton Unviversity.  Assuming all other factors are equal, **asset** plays huge role in the amount of aid granted.  So plan should be geared around the above 4 factors contributing EFC - how to minimize them.
 
-##### Inline HTML
+| |Scenario 1|Scenario 2|
+|---|---|---|
+|Gross income|200K|200K|
+|Asset|500K|70K|
+|401K contribution|38K|38K|
+|Total estimated student budget|74K|74K|
+|**Total estimated aid**|**4K**|**42K**|
 
-You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
+<br>
 
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
+#### Tips to lower EFC to increase chance of getting granted
+This is about to minimize the 4 factors contributing EFC - parent income, parent asset, student income and student asset.
+###### minimizing parent income
+I am an employee of a company so thought there is no room to minimize my income.  One way I learned is to get involved in any form of business as a second job so that I can file 1099 tax form.  This way, I can include business expenses through the business I am involved to lower my total income.  Other than that, parent income is mostly denoted as AGI(Adjusted Gross Income).
+###### minimizing parent asset
+Asset types which will be included in calculating EFC are as follows:
+- 529
+- UGMA/UTMA
+- Stock/Mutual fund/ETF
+- Savings/CD
+- Rental property
+- Trust fund
+- Resident home (public schools may exclude)
 
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
+Assets excluded from EFC:
+- Qualified retirement fund : 401k, IRA, Roth,...
+- Qualified annuity
+- IGIP(7702) : IUL(Indexed Universal Life insurance), ...
 
+Based on this, plan should be focusing moving assets from includable to excludable.  If payting mortgage, re-financing would lower the equity value thus decrease EFC.  Specifically, 529, student expense fund, would require attention cause some school would immediately disqualify the application if 529 exists.
+###### minimizing student income
+If student has taxable income, it will also be included in EFC, not a great idea considering the aid amount could have been granted otherwise.
+###### minimizing student asset
+It is also not a good idea to have savings accounts under studnet's name since it will also be factored in EFC.
 
-<hr>
-
-##### Tables
-
-Colons can be used to align columns.
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the 
-raw Markdown line up prettily. You can also use inline Markdown.
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
-
-<hr>
-
-##### Image
-
-![image](../../images/post/post-1.jpg)
-
-<hr>
-
-##### Youtube video
-
-{{< youtube C0DPdy98e4c >}}
+#### Useful resources
+[https://studentaid.gov/h/apply-for-aid/fafsa]{https://studentaid.gov/h/apply-for-aid/fafs](https://studentaid.gov/h/apply-for-aid/fafsa)
+[https://www.collegeboard.org/](https://www.collegeboard.org/)
+[https://finaid.org/](https://finaid.org/)
+[https://www.irs.gov/](https://www.irs.gov/)
+[https://withfrank.org/](https://withfrank.org/)

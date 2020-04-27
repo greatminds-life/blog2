@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>College on Liva | Personal blog template</title>
+    <link>https://greatminds-life.github.io/blog2/tags/college/</link>
+    <description>Recent content in College on Liva | Personal blog template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Apr 2020 10:07:47 +0600</lastBuildDate>
+    
+	<atom:link href="https://greatminds-life.github.io/blog2/tags/college/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Private schools may cost the same as public schools if well planned</title>
+      <link>https://greatminds-life.github.io/blog2/blog/post-1/</link>
+      <pubDate>Sun, 26 Apr 2020 10:07:47 +0600</pubDate>
+      
+      <guid>https://greatminds-life.github.io/blog2/blog/post-1/</guid>
+      <description>Colleges are insanely expensive in US Preparing funds to pay college tuition to send kids to colleges is a serious topic in US.</description>
+    </item>
+    
+  </channel>
+</rss>

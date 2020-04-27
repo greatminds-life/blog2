@@ -83,7 +83,7 @@ logo = "images/logo.png"
 home = "Home"
 # Meta data
 description = "This is meta description"
-author = "Themefisher"
+author = "Joe Jo"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 # Contact Information
@@ -133,3 +133,9 @@ link = "#"
 title = "linkedin"
 icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
 link = "#"
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
