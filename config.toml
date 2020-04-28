@@ -62,7 +62,7 @@ publishDir = "docs"
 
  [[menu.main]]
   name = "Coffee?"
-  URL = "https://paypal.me/makeyourdesignwork?locale.x=en_US"
+  URL = "https://paypal.me/greatmindslife?locale.x=en_US"
   weight = 3
 
   # footer menu
