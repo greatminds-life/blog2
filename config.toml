@@ -46,18 +46,23 @@ publishDir = "docs"
   
   # main menu
   [[menu.main]]
-  name = "About"
+  name = "Joe Jo"
   URL = "about"
   weight = 1
   
-  [[menu.main]]
-  name = "Post"
-  URL = "blog"
-  weight = 2
+#  [[menu.main]]
+#  name = "Post"
+# URL = "blog"
+#  weight = 2
   
-  [[menu.main]]
-  name = "Contact"
-  URL = "contact"
+ # [[menu.main]]
+ # name = "Contact"
+ # URL = "contact"
+ # weight = 3
+
+ [[menu.main]]
+  name = "Coffee?"
+  URL = "https://paypal.me/makeyourdesignwork?locale.x=en_US"
   weight = 3
 
   # footer menu
@@ -66,20 +71,20 @@ publishDir = "docs"
   URL = "about"
   weight = 1
   
-  [[menu.footer]]
-  name = "Post"
-  URL = "blog"
-  weight = 2
+ # [[menu.footer]]
+ # name = "Post"
+ # URL = "blog"
+ # weight = 2
   
-  [[menu.footer]]
-  name = "Contact"
-  URL = "contact"
-  weight = 3
+ # [[menu.footer]]
+ # name = "Contact"
+ # URL = "contact"
+ # weight = 3
 
 
 #################### default parameters ################################
 [params]
-logo = "images/logo.png"
+logo = "images/logo8.png"
 home = "Home"
 # Meta data
 description = "This is meta description"
@@ -91,7 +96,7 @@ mobile = "0124857985320"
 email = "demo@email.com"
 location = "Dhaka, Bangladedsh"
 # copyright
-copyright = "| copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved |"
+copyright = "| copyright &copy; 2020 Joe Jo All Rights Reserved |"
 
   # Preloader
   [params.preloader]
@@ -105,34 +110,34 @@ copyright = "| copyright &copy; 2020 [Themefisher](https://themefisher.com) All 
 ############################ news letter ########################
 [params.newsletter]
 enable = true
-title = "Join Our Newsletter"
-content = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero"
+title = "Get more updates"
+content = "Interested in getting more posts? Sign up here!"
 
 ############################# social site ########################
 [[params.social]]
 title = "facebook"
 icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.facebook.com/joe.jo.8"
 
-[[params.social]]
-title = "twitter"
-icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-link = "#"
+#[[params.social]]
+#title = "twitter"
+#icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
+#link = "#"
 
-[[params.social]]
-title = "instagram"
-icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
-link = "#"
+#[[params.social]]
+#title = "instagram"
+#icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
+#link = "#"
 
-[[params.social]]
-title = "github"
-icon = "ti-github" # themify icon : https://themify.me/themify-icons
-link = "#"
+#[[params.social]]
+#title = "github"
+#icon = "ti-github" # themify icon : https://themify.me/themify-icons
+#link = "#"
 
 [[params.social]]
 title = "linkedin"
 icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.linkedin.com/in/joejous/"
 
 
 [markup]
