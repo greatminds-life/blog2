@@ -55,10 +55,10 @@ publishDir = "docs"
 # URL = "blog"
 #  weight = 2
   
- # [[menu.main]]
- # name = "Contact"
- # URL = "contact"
- # weight = 3
+  [[menu.main]]
+  name = "Contact"
+  URL = "contact"
+ weight = 3
 
  [[menu.main]]
   name = "Support"
@@ -93,8 +93,8 @@ author = "Joe Jo"
 googleAnalitycsID = "Your ID"
 # Contact Information
 mobile = "0124857985320"
-email = "demo@email.com"
-location = "Dhaka, Bangladedsh"
+email = "jojang8@gmail.com"
+location = "New Jersey"
 # copyright
 copyright = "copyright &copy; 2020 Joe Jo All Rights Reserved"
 
