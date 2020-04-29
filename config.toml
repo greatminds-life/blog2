@@ -110,7 +110,7 @@ copyright = "copyright &copy; 2020 Joe Jo All Rights Reserved"
   # favicon
   [params.favicon]
   enable = true
-  path = "images/favicon.ico"
+  path = "images/favicon.png"
 
 ############################ news letter ########################
 [params.newsletter]
