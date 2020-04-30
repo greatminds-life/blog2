@@ -5,7 +5,7 @@ title = "greatminds.life"
 theme = "liva-hugo"
 summaryLength = "10"
 paginate = 6
-disqusShortname = ""
+disqusShortname = "greatminds-life-github-io-blog2"
 publishDir = "docs"
 
 [outputs]
