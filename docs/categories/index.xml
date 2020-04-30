@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on greatminds.life</title>
-    <link>https://greatminds-life.github.io/blog2/categories/</link>
+    <link>https://greatminds.life/categories/</link>
     <description>Recent content in Categories on greatminds.life</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 26 Apr 2020 10:07:47 +0600</lastBuildDate>
     
-	<atom:link href="https://greatminds-life.github.io/blog2/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://greatminds.life/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Finance</title>
-      <link>https://greatminds-life.github.io/blog2/categories/finance/</link>
+      <link>https://greatminds.life/categories/finance/</link>
       <pubDate>Sun, 26 Apr 2020 10:07:47 +0600</pubDate>
       
-      <guid>https://greatminds-life.github.io/blog2/categories/finance/</guid>
+      <guid>https://greatminds.life/categories/finance/</guid>
       <description></description>
     </item>
     

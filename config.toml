@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://greatminds-life.github.io/blog2/"
+baseURL = "https://greatminds.life"
 languageCode = "en-us"
 title = "greatminds.life"
 theme = "liva-hugo"
