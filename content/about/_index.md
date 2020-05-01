@@ -13,8 +13,10 @@ description: "this is meta description"
 type : "about"
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet,
+I am a UX specialist with entrepreneur mindset, seeking opportunities to improve systems and human behavior from everywhere around me and my neighbors. Currently working at Bloomberg L.P. as a UX specialist to design applications for data acquistion, process, analysis, and visualization on web and Bloomberg proprietary platform. My goal is to focus on achieving efficiency of manual efforts where human interaction involved in fully automated data processing systems as well as providing up-scale user experience of data processing tools.
 
-consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+I also have comprehensive experience of designing mobile applications and UX framework in global corporations such as LG electronics and Samsung electronics as well as Bloomberg mobile professional as agency designer.
 
-nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd
+My main areas of interest nowadays are web technologies to build best in class user experience around data management, processing, communication and more.
+
+This blog is to record my journey of learning and to share insights, useful information with community. Always open for new, big ideas, drop me a line to connect.
