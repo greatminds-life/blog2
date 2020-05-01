@@ -22,50 +22,87 @@ type: "post"
 ---
 
 #### Colleges are insanely expensive in US
-<mark>Preparing funds to pay college tuition to send kids to colleges is a serious topic in US.</mark>  As a parent with two 8th graders(they will be in college if all works out, in the year of 2024), I felt obligated to do something to prepare properly though I don't have any prior knowledge or experience on finance or investment with not so much of disposable cash at hand. I had vague understanding that cost of college would be very expensive, if it comes to private schools, it goes way higher.  My unsderstanding on that was not too far away from reality if you look at the following table.
+<mark>Preparing funds to pay college tuition to send kids to colleges is a serious topic in US since cost of attendance is very expensive.</mark>  You can grasp the idea how much it will cost from the table below.  These numbers are based on 2020-2021 academic year which means you would need x4 times of fund to completely cover 4 years of education. This is only for undergraduate schools. On the average, it may require at least $30K a year up to $75K a year. If you have pile of cash to cover this, good for you. If not, question comes up, how to prepare that?
 
-|School type      | Average cost per year|
-|:-----|:-------------|
-|Private          | $75K+                |
-|Public out of state | $60K+            |
-|Public in state | $30K+                 |
+|Private|Public out of state|Public in state|
+| --- | --- |---:|
+|<Text style ="color:red;">**$75K+**</Text> average |<Text style ="color:red;">**$60K+**</Text> average | <Text style ="color:red;">**$30K+**</Text> average|
+|Rice $69,557|UT Austin $58,986 |UT Austin $28,756|
+|SMU $79,126|Texas A&M $58,550| Texas A&M $30,024 |
+|U Penn $76,826|UC Berkeley $69,304| UC Berkeley $40,692 |
+|Standford $78,218|UC Davis $65,780|UC Davis $36,026|
+|Princeton $75,210|U of Michigan $66,698| U of Michigan $$31,056|
+|NYU $78,744| UIUC $55,698|UIUC $37,908|
 
-Out of simple calculation, I should be able to pay (at least) $140K a year for my two kids (if they both go to private schools), easily sums up to $480K for four years. If they choose in state public schools instead, it goes down to $240K, still a lot of money to save. Unfortunately, I don't have that amount of money in my account, don't think I can save that much in next 2-3 years either. Then my concenrn has deepended, how could I support my kids if they got admission from schools?
+<br>
 
-#### There is good news though
-Despite all those stressful figures above, there is good news at least.  Most schools provide financial aid if you're qualified, and chance of getting it will go higher if you plan well.  You may get more aid for private schools since they are much more expensive than public schools.  Take a look at the following image provided by Princeton University. It says average of around $57K is granted to students admitted to class of 2023.  Very promising.  But is it for every students? Any conditions?
+#### Common misunderstandings
+1. **my kids are too young, it's too early to save**  
+Considering inflation over time, it will cost more when younger kids go to college.
+1. **our income is too high, there is no way we can get financial aid**  
+Income levels are all relative, and what if one parent loses job when applying?
+1. **our income is too log, we never have to pay**  
+No guarantee to get good financial aid.
+1. **public schools are much cheaper, forget about private**  
+If well planned, you may pay the same amount.
 
+- **finding**  <mark>it is better to prepare sooner, regardless of your income level.</mark>
+
+<br>
+
+#### Types of financial aid
+There are two types of financial aid provided, merit-based and need-based. <mark>Here, we will be focusing on need-based aid.</mark>
+
+|merit-based| need-based|
+|---|---|
+|based on student achievements|based on the data in: <br><br> **FAFSA**(Free Application for Federal Student Aid) <br><br> **CSS profile**(College Scholarship Service Financial Aid Profile)|
+
+<br>
+
+#### 2.6B in free college money went unclaimed by 2018 grads
+From an article by [nerdwallet, Anna Helhoski, Oct 16 2018](https://www.nerdwallet.com/blog/loans/student-loans/2018-fafsa-pell-grant/), $2.6B from federal support not claimed by grads just because they didn't apply for it. In the article, 661,000 who are eligible for aid didn't put their application in. <mark>It is important to make sure to apply for it regarless of your financial condition.</mark>
+
+#### Actual financial aid given by Princeton University
+Following images are from Princeton University's home page, demonstrating how they provide financial aids to students. In an ideal situation, parent's out of pocket responsibility could go down to **$13K** a year, dramatic difference between original cost of attendance.
+
+<img src= "../../images/post/princeton2.png" width = 60% />
 <img src= "../../images/post/princeton1.png" width = 100% />
 [source: https://admission.princeton.edu/cost-aid](https://admission.princeton.edu/cost-aid)
 
-Found another information from the same page as in the following image.  This indicates that studenst pay only $13K per year if they are granted full aid as depicted above which is less than half of cost of in state public schools.
+<br>
 
-<img src= "../../images/post/princeton2.png" width = 60% />
+Following table shows the odds of getting granted based on the level of gross family income with average grant given. It says, <mark>if you are in $140K-160K salary range, you could get $52,210 financial aid with 100% chance.</mark>
 
-Then question is, will everyone get the aid if they apply? No. There are rules, but odds are very high even if your income level is relatively high according to the following stats also provided by Princeton University.  It says you would get the aid around $42K even your annual income is between 180K and 200K with 93% of chance, which is around $36K expected value.  Still good amount.
-
-<img src= "../../images/post/princeton3.png" width = 80% />  
+<img src= "../../images/post/princeton3.png" width = 90% />  
 [source: https://admission.princeton.edu/cost-aid/how-princetons-aid-program-works](https://admission.princeton.edu/cost-aid/how-princetons-aid-program-works)
 
-#### What are the rules to get qualified for aid?
-To answer this question, need to understand the factors to pass grant process.  Grants are basically decided **NEED** based, which factors in family's financial conditions while **MERIT** based aids are by students achievements.  **NEED** is calculated from the following equation:  
-```
-NEED = COA - EFC
+<br>
 
-where  
-COA : Cost Of Attendance - fixed, posed by school  
-EFC : Expected Family Contribution - money from my pocket
-```  
+#### Private vs pubic comparison
+Following image compares private and public school's EFC case. Items are not 1:1, still demonstrates that <mark>private could cost as much as public schools</mark> in terms of out of pocket cost, not cost of attendance.
 
-As noted, COA is fixed, no way to change it.  Plan should be on EFC, how to minimize it to maximize the **NEED**.  
+<img src= "../../images/post/pvp.png" width = 100% />
 
-EFC is defined by the following four factors:
-- parent income
-- parent asset
-- student income
-- student asset  
 
-If interested in getting more close numbers to your situation, this [link](https://admission.princeton.edu/cost-aid/financial-aid-estimator) will show more accurate expected aid grant amount based on financial information provided.  Following two simplified scenarios are to compare how EFC is affecting the amount of grant using cost-aid calculator from Princeton Unviversity.  Assuming all other factors are equal, **asset** plays huge role in the amount of aid granted.  So plan should be geared around the above 4 factors contributing EFC - how to minimize them.
+#### How 'NEEDS' are calculated?
+For need-based grant, **NEED** is calculated as in the following equation.
+
+
+>**NEED** = **COA** - **EFC**  
+>where  
+>**COA** : Cost Of Attendance - determined by school  
+>**EFC** : Expected Family Contribution - money from my pocket
+
+
+Apparently, when your needs become big, you will get higher chance of getting grant with more amount.  Then question is how to maximize the needs? As you can see from the equation, we can only have control over **EFC** since **COA** is fixed value.  <mark>If we minimize our **EFC**, our **NEEDS** will be maximized given **COA**.</mark>
+
+EFC is determined by the following four factors:
+1. parent income
+1. parent asset
+1. student income
+1. student asset  
+
+If interested in getting more acurate numbers to your situation, this [link](https://admission.princeton.edu/cost-aid/financial-aid-estimator) will show expected aid grant amount based on financial information provided.  Following two simplified scenarios are to compare how EFC is affecting the amount of grant using cost-aid calculator from Princeton Unviversity.  Assuming all other factors are equal, **asset** plays huge role in the amount of aid granted.  So plan should be geared around the above 4 factors contributing EFC - how to minimize them.
 
 | |Scenario 1|Scenario 2|
 |---|---|---|
@@ -77,30 +114,36 @@ If interested in getting more close numbers to your situation, this [link](https
 
 <br>
 
-#### Tips to lower EFC to increase chance of getting granted
+#### How to lower EFC?
 This is about to minimize the 4 factors contributing EFC - parent income, parent asset, student income and student asset.
 ###### minimizing parent income
-I am an employee of a company so thought there is no room to minimize my income.  One way I learned is to get involved in any form of business as a second job so that I can file 1099 tax form.  This way, I can include business expenses through the business I am involved to lower my total income.  Other than that, parent income is mostly denoted as AGI(Adjusted Gross Income).
+As an employee, there is not much room to lower parent income since it is all reported and tracked. <mark>One way to get around is to start or get involved in a business apart from day time job so that you can file expenses from the business which will lower your income level.</mark>
 ###### minimizing parent asset
 Asset types which will be included in calculating EFC are as follows:
-- 529
-- UGMA/UTMA
-- Stock/Mutual fund/ETF
-- Savings/CD
-- Rental property
-- Trust fund
-- Resident home (public schools may exclude)
+> 529  
+> UGMA/UTMA  
+> Stock/Mutual fund/ETF  
+> Savings/CD  
+> Rental property  
+> Trust fund  
+> Resident home (public schools may exclude)
 
 Assets excluded from EFC:
-- Qualified retirement fund : 401k, IRA, Roth,...
-- Qualified annuity
-- IGIP(7702) : IUL(Indexed Universal Life insurance), ...
+> Qualified retirement fund : 401k, IRA, Roth,...  
+> Qualified annuity  
+> IGIP(7702) : IUL(Indexed Universal Life insurance), ...
 
-Based on this, plan should be focusing moving assets from includable to excludable.  If payting mortgage, re-financing would lower the equity value thus decrease EFC.  Specifically, 529, student expense fund, would require attention cause some school would immediately disqualify the application if 529 exists.
+Based on this, plan should be focusing reallocating assets from includable to excludable.  
+<mark>If you're payting mortgage, re-financing would lower the equity value of the house thus decrease EFC.</mark>  
+<mark>529, student expense fund, would require special attention cause some school would immediately disqualify the application if 529 exists.</mark>
+<mark>Life insurance products, such as IUL(Indexed Universal Life Insurance), could be used to lower includable assets. You could also get tax benefits as well.</mark>
+ 
 ###### minimizing student income
-If student has taxable income, it will also be included in EFC, not a great idea considering the aid amount could have been granted otherwise.
+<mark>If student has taxable income, it will also be included in EFC, not a great idea considering the aid amount could have been granted otherwise.</mark>
+
 ###### minimizing student asset
-It is also not a good idea to have savings accounts under studnet's name since it will also be factored in EFC.
+<mark>Having savings or brokerage account under kids name, especially with good amount of money in them, would be included as student asset.</mark>
+<mark>Also, if you have house(s) under your kids name, that will be included as well so not recommended.</mark>
 
 #### Useful resources
 [https://studentaid.gov/h/apply-for-aid/fafsa](https://studentaid.gov/h/apply-for-aid/fafsa)  
