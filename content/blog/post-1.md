@@ -46,7 +46,7 @@ No guarantee to get good financial aid.
 1. **public schools are much cheaper, forget about private**  
 If well planned, you may pay the same amount.
 
-- **finding**  <mark>it is better to prepare sooner, regardless of your income level.</mark>
+So the take-away here is that <mark>it is better to start preparing sooner, regardless of your income level.</mark>
 
 <br>
 
@@ -134,12 +134,12 @@ Assets excluded from EFC:
 > IGIP(7702) : IUL(Indexed Universal Life insurance), ...
 
 Based on this, plan should be focusing reallocating assets from includable to excludable.  
-<mark>If you're payting mortgage, re-financing would lower the equity value of the house thus decrease EFC.</mark>  
-<mark>529, student expense fund, would require special attention cause some school would immediately disqualify the application if 529 exists.</mark>
+<mark>If you're paying mortgage, re-financing would lower the equity value of the house thus decrease EFC.</mark>  
+<mark>529, student expense fund, would require special attention cause some school would immediately disqualify the aid application if you were already putting money in 529.</mark>
 <mark>Life insurance products, such as IUL(Indexed Universal Life Insurance), could be used to lower includable assets. You could also get tax benefits as well.</mark>
  
 ###### minimizing student income
-<mark>If student has taxable income, it will also be included in EFC, not a great idea considering the aid amount could have been granted otherwise.</mark>
+<mark>If student has taxable income, like working as part timer at McDonalds, it will also be included in EFC, not a great idea considering the aid amount could have been granted otherwise.</mark>
 
 ###### minimizing student asset
 <mark>Having savings or brokerage account under kids name, especially with good amount of money in them, would be included as student asset.</mark>
