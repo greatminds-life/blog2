@@ -36,7 +36,7 @@ Recently, I've got to learn about <mark>rule of 72</mark>, which allows you to e
 
 For example, if you invest $1,000 with the interest of 5%, it will take around 14 years to make it $2,000. This rule assumes **compound interest** rather than **simple interest**. Clearly, **simple interest** paradigm doesn't have any time factor considered.
 
-> **Formula for calculating compound interest** **=** _P_ (1+_i_)<sup>_n_</sup> - _P_  
+> **Formula for calculating compound interest** **=** _P_ (1+i)<sup>n</sup> - P  
 > where  
 > P : Principal  
 > i : Nominal annual interest rate  
@@ -49,7 +49,7 @@ For example, if you invest $1,000 with the interest of 5%, it will take around 1
 <br>
 
 #### Reality check
-How does this rule work in reality? Following chart shows past 10 years of performance of one of top S&P500 ETF product - <mark>VOO(VANGUARD S&P 500 ETF)</mark>. It tells if you invested in the ETF 10 years ago, it would be now $27,511. In this case, the principal amount almost tripled, we can tell based on the rule of 72, average annual interest of this product is over 10%. Take-away from here is that, <mark>if we choose proper investment vehicle, we could garner full effect of power of time as illustrated in rule of 72.</mark>
+How does this rule work in reality? Following chart shows past 10 years of performance of S&P500 ETF product - <mark>VOO(VANGUARD S&P 500 ETF)</mark>. It tells if you invested $10,000 in the ETF 10 years ago, it would be now $27,511. In this case, the principal amount almost tripled, we can tell based on the rule of 72, average annual interest of this product is over 10%. Take-away from here is that, <mark>if we choose proper investment vehicle, we could garner full effect of power of time as illustrated in rule of 72.</mark>
 <br>
 
 <img src= "../../images/post/voo.png" width = 100% />
@@ -58,7 +58,7 @@ How does this rule work in reality? Following chart shows past 10 years of perfo
 <br>
 
 #### Scenarios of monthly savings
-In real situation, we most likely could save some amount of extra money in investment. Following table shows different scenarios with different amount of monthly saving under the assumption of 10 year investment period with 10% average annual interest rate.
+In real situation, we most likely could save some amount of extra money in investment. Following table shows different scenarios with varying amount of monthly savings under the assumption of 10 year investment period with 10% average annual interest rate.
 
 |monthly saving amount|principal amount after 10 years|interest earned|total|
 | ---:| ---:| ---:| ---:|
