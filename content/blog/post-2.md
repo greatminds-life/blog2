@@ -21,8 +21,6 @@ tags:
 type: "post"
 ---
 
-https://www.etrade.wallst.com/v1/stocks/fund_performance/performance.asp?symbol=VOO
-
 
 #### Rule of 72
 Recently, I've got to learn about <mark>rule of 72</mark>, which allows you to estimate how long it will take to doulbe your investment by dividing 72 with the interest rate from your investment vehicle. Following table demonstrates it:
