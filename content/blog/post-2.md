@@ -51,7 +51,7 @@ How does this rule work in reality? Following chart shows past 10 years of perfo
 <br>
 
 <img src= "../../images/post/voo.png" width = 100% />
-[source: https://www.etrade.wallst.com/v1/stocks/fund_performance/performance.asp?symbol=VOO](https://www.etrade.wallst.com/v1/stocks/fund_performance/performance.asp?symbol=VOO)
+[source: etrade performance report of VOO](https://www.etrade.wallst.com/v1/stocks/fund_performance/performance.asp?symbol=VOO)
 
 <br>
 
