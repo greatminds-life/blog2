@@ -1,6 +1,6 @@
 ---
 title: "Building websites with Hugo"
-date: 2020-05-02T10:07:47+06:00
+date: 2020-05-02T10:07:47-04:00
 draft: false
 summary: "Hugo makes it fun and easy to build your own websites"
 # post thumb
@@ -64,7 +64,7 @@ for promotional home, about, service, gallery, blog, contact - [demo site]
 
 ---
 
-###### [Navigator](https://themes.gohugo.io/theme/timer-hugo/)
+###### [Navigator](https://themes.gohugo.io/theme/navigator-hugo/en)
 for promotional home, about, service, gallery, blog, contact
 <img src= "../../images/post/navigator.png" width = 100% />
 
@@ -111,5 +111,5 @@ You would also need to get familiarize yourself on command line environment in t
 
 ---
 
- #### Conclustion
+ #### Conclusion
  All in all, Hugo is a great tool to allow you build your own websites in short amount of time, once you get over the learning curves listed above. I recently switched from Wix to Hugo for my personal design portfolio site. At first, I started out of pure curiosity how Hugo could work and now I moved my portfolio site completely to Hugo. This saved me $200+ a year, which I really don't needed to pay considering the features I was using from Wix(I paid it mostly because I wanted to peel off Wix ad banner attached to all sites with free plan). Wix is a great all-in-one platform, I am still using it for my freelancing works to build websites for my clients. It has lots of features to support business like cusomter management, creating online stores, setting up online appoinment scheduler, variety of built in widgets, establishing online payment system, and so much more. However, in my case, I only needed fraction of those features and Hugo served it perfectly with no cost(costed mostly my time). If you are looking for simple and affordable web solution like me, Hugo is definitely worth trying.

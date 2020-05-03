@@ -6,7 +6,7 @@
     <description>Recent content in Web on greatminds.life</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 May 2020 10:07:47 +0600</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2020 10:07:47 -0400</lastBuildDate>
     
 	<atom:link href="https://greatminds.life/categories/web/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Building websites with Hugo</title>
       <link>https://greatminds.life/blog/post-3/</link>
-      <pubDate>Sat, 02 May 2020 10:07:47 +0600</pubDate>
+      <pubDate>Sat, 02 May 2020 10:07:47 -0400</pubDate>
       
       <guid>https://greatminds.life/blog/post-3/</guid>
       <description>Hugo makes it fun and easy to build your own websites</description>

@@ -1,6 +1,6 @@
 ---
 title: "Joe Jo"
-date: 2019-10-29T13:49:23+06:00
+date: 2019-10-29T13:49:23-04:00
 draft: false
 
 # image

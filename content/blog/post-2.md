@@ -1,6 +1,6 @@
 ---
 title: "Reason to start inversting now, not in the future"
-date: 2020-05-01T10:07:47+06:00
+date: 2020-05-01T10:07:47-04:00
 draft: false
 summary: "Start saving smallest amount from today to fully leverage the power of time in our investment."
 # post thumb
