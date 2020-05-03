@@ -1,6 +1,6 @@
 ---
 title: "Building websites with Hugo"
-date: 2020-05-02T10:07:47-04:00
+date: 2020-05-03T10:07:47-04:00
 draft: false
 summary: "Hugo makes it fun and easy to build your own websites"
 # post thumb
