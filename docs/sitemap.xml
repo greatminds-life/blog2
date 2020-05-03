@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://greatminds.life/blog/</loc>
+    <lastmod>2020-05-03T13:49:23+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://greatminds.life/</loc>
+    <lastmod>2020-05-03T13:49:23+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://greatminds.life/blog/post-3/</loc>
     <lastmod>2020-05-02T10:07:47+06:00</lastmod>
   </url>
@@ -19,11 +29,6 @@
   
   <url>
     <loc>https://greatminds.life/tags/design/</loc>
-    <lastmod>2020-05-02T10:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://greatminds.life/</loc>
     <lastmod>2020-05-02T10:07:47+06:00</lastmod>
   </url>
   
@@ -90,11 +95,6 @@
   <url>
     <loc>https://greatminds.life/tags/tuition/</loc>
     <lastmod>2020-04-26T10:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://greatminds.life/blog/</loc>
-    <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url>
   
   <url>

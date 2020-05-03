@@ -7,7 +7,7 @@ summary: "Start saving smallest amount from today to fully leverage the power of
 image: "images/featured-post/chart.png"
 
 # meta description
-description: "this is meta description"
+description: "blog from greatminds.life"
 
 # taxonomies
 categories: 

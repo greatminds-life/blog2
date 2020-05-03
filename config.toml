@@ -87,7 +87,7 @@ publishDir = "docs"
 logo = "images/logo8.png"
 home = "Home"
 # Meta data
-description = "This is meta description"
+description = "blog from greatminds.life"
 author = "Joe Jo"
 # Google Analitycs
 googleAnalitycsID = "G-BEDX501H3B"

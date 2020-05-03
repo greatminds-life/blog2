@@ -2,12 +2,13 @@
 title: "Private schools may cost the same as public schools if well planned"
 date: 2020-04-26T10:07:47+06:00
 draft: false
+author: "Joe Jo"
 summary: "Preparing funds to pay college tuition to send kids to colleges is a serious topic in US."
 # post thumb
 image: "images/featured-post/princeton.png"
 
 # meta description
-description: "this is meta description"
+description: "blog from greatminds.life"
 
 # taxonomies
 categories: 

@@ -7,7 +7,7 @@ summary: "Hugo makes it fun and easy to build your own websites"
 image: "images/featured-post/hugo.png"
 
 # meta description
-description: "this is meta description"
+description: "blog from greatminds.life"
 
 # taxonomies
 categories: 
