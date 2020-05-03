@@ -2,7 +2,7 @@
 title: "Building websites with Hugo"
 date: 2020-05-02T10:07:47+06:00
 draft: false
-summary: "Hugo made it fun and easy to build your own websites"
+summary: "Hugo makes it fun and easy to build your own websites"
 # post thumb
 image: "images/featured-post/hugo.png"
 
