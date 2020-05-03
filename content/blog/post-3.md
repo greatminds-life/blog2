@@ -101,12 +101,12 @@ Since you have to deal with 'some' level of coding experience, you would need to
  Hugo uses Markdown to write contents for sites. Markdown, according to Wikipedia, is defined as _<mark>"a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML."</mark>_ Beauty of using Markdown instead of html is in its simplicity. You only have to remember several key Markdown syntax to write up your blog post without worrying about styling then Hugo will generate great-looking html files along with built in css for you. All you need to do is to keep writing your content using Markdown. This blog post is also written using Markdown. 
 
 ---
-###### Setting custom domain
+###### Setting up custom domain
 This is optional and very easy. If you are not interested in getting unique domain name for yourself or your business, you could use default domain name provided by Github for example. But if you are to use your own domain name(i.e, website address name), then you would need to pick your domain name(must be available one), buy it(from one of the domain name providers like [Godaddy](https://www.godaddy.com/)) and connect your domain name to your web hosting server. 
 
 ---
 
-##### Command lines in terminal
+###### Command line in terminal
 You would also need to get familiarize yourself on command line environment in terminal to install and run required programs to run Hugo. 
 
 ---
