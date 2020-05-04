@@ -50,6 +50,8 @@ For example, if you invest $1,000 with the interest of 5%, it will take around 1
 How does this rule work in reality? Following chart shows past 10 years of performance of S&P500 ETF product - <mark>VOO(VANGUARD S&P 500 ETF)</mark>. It shows that if you invested $10,000 in the ETF 10 years ago, it would be now $27,511. In this case, the principal amount almost tripled, based on the rule of 72, average annual interest of this product is over 10%. <mark>If we choose proper investment vehicle, we could garner full effect of power of time as illustrated in rule of 72.</mark>
 <br>
 
+error 
+
 <img src= "../../images/post/voo.png" width = 100% />
 [source: etrade performance report of VOO](https://www.etrade.wallst.com/v1/stocks/fund_performance/performance.asp?symbol=VOO)
 
