@@ -23,7 +23,7 @@ type: "post"
 
 
 #### Rule of 72
-Recently, I've got to learn about <mark>rule of 72</mark>, which allows you to estimate how long it will take to doulbe your investment by dividing 72 with the interest rate from your investment vehicle. Following table demonstrates it:
+Recently, I've got to learn about <mark>rule of 72</mark>, which allows you to estimate how long it will take to double your investment by dividing 72 with the interest rate from your investment vehicle. Following table demonstrates how it works:
 
 |interest rate|Years to double your money|
 |---|---|
@@ -32,7 +32,7 @@ Recently, I've got to learn about <mark>rule of 72</mark>, which allows you to e
 |15%|72/15 =  4.8 years|
 |...|...|
 
-For example, if you invest $1,000 with the interest of 5%, it will take around 14 years to make it $2,000. This rule assumes **compound interest** rather than **simple interest**. Clearly, **simple interest** paradigm doesn't have any time factor considered.
+For example, if you invest $1,000 with the interest of 5%, it will take around 14 years to make it $2,000. This rule assumes **compound interest** rather than **simple interest**. **Simple interest** paradigm doesn't have any time factor considered.
 
 > **Formula for calculating compound interest** **=** _P_ (1+i)<sup>n</sup> - P  
 > where  
@@ -47,7 +47,7 @@ For example, if you invest $1,000 with the interest of 5%, it will take around 1
 <br>
 
 #### Reality check
-How does this rule work in reality? Following chart shows past 10 years of performance of S&P500 ETF product - <mark>VOO(VANGUARD S&P 500 ETF)</mark>. It tells if you invested $10,000 in the ETF 10 years ago, it would be now $27,511. In this case, the principal amount almost tripled, we can tell based on the rule of 72, average annual interest of this product is over 10%. Take-away from here is that, <mark>if we choose proper investment vehicle, we could garner full effect of power of time as illustrated in rule of 72.</mark>
+How does this rule work in reality? Following chart shows past 10 years of performance of S&P500 ETF product - <mark>VOO(VANGUARD S&P 500 ETF)</mark>. It shows that if you invested $10,000 in the ETF 10 years ago, it would be now $27,511. In this case, the principal amount almost tripled, based on the rule of 72, average annual interest of this product is over 10%. <mark>If we choose proper investment vehicle, we could garner full effect of power of time as illustrated in rule of 72.</mark>
 <br>
 
 <img src= "../../images/post/voo.png" width = 100% />
@@ -56,7 +56,7 @@ How does this rule work in reality? Following chart shows past 10 years of perfo
 <br>
 
 #### Scenarios of monthly savings
-In real situation, we most likely could save some amount of extra money in investment. Following table shows different scenarios with varying amount of monthly savings under the assumption of 10 year investment period with 10% average annual interest rate.
+In real situation, we most likely could save some amount of extra money monthly basis not as lump sum as in the previous example. Following table shows different scenarios with varying amount of monthly savings under the assumption of 10 year investment period with 10% average annual interest rate, how much it will end up after 10 years of investment.
 
 |monthly saving amount|principal amount after 10 years|interest earned|total|
 | ---:| ---:| ---:| ---:|
