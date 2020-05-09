@@ -11,13 +11,10 @@ description: "blog from greatminds.life"
 
 # taxonomies
 categories: 
-  - "Web"
+  - "Finance"
 tags:
-  - "Hugo"
-  - "Web"
-  - "HTML"
-  - "CSS"
-  - "Design"
+  - "FICO"
+  - "credit score"
 
 # post type
 type: "post"
